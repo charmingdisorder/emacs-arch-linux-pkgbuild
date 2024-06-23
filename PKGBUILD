@@ -34,7 +34,7 @@
 #     available, and this is the Cairo graphics library + HarfBuzz for font
 #     shaping, so 'configure' now recommends that combination.
 
-_wayland="NOX" # NO = Lucid, YES = Pure GTK, NOX = No X
+_wayland="YES" # NO = Lucid, YES = Pure GTK, NOX = No X
 
 pkgname="emacs-git"
 pkgver=30.0.50.170054
